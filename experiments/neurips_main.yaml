@@ -1,0 +1,6 @@
+tasks: 12
+assays: 12
+hidden: 256
+lambda: 0.5
+batch_size: 32
+lr: 0.001

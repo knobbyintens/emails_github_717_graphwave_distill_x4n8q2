@@ -1,0 +1,5 @@
+{
+  "retention": 0.964,
+  "assays": 12,
+  "forgetting_reduction_vs_finetune": 0.71
+}
